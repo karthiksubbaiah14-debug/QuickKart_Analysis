@@ -1,0 +1,1081 @@
+month,city,category,gmv
+2024-07,Ahmedabad,Books,110449.0
+2024-07,Ahmedabad,Electronics,6231837.0
+2024-07,Ahmedabad,Fashion,672491.0
+2024-07,Ahmedabad,Grocery,117559.0
+2024-07,Ahmedabad,Home & Kitchen,1341740.0
+2024-07,Bangalore,Books,352312.0
+2024-07,Bangalore,Electronics,20898122.0
+2024-07,Bangalore,Fashion,1860491.0
+2024-07,Bangalore,Grocery,377786.0
+2024-07,Bangalore,Home & Kitchen,4147855.0
+2024-07,Chandigarh,Books,106478.0
+2024-07,Chandigarh,Electronics,5835426.0
+2024-07,Chandigarh,Fashion,429987.0
+2024-07,Chandigarh,Grocery,84651.0
+2024-07,Chandigarh,Home & Kitchen,650127.0
+2024-07,Chennai,Books,199767.0
+2024-07,Chennai,Electronics,14595078.0
+2024-07,Chennai,Fashion,1385901.0
+2024-07,Chennai,Grocery,239849.0
+2024-07,Chennai,Home & Kitchen,2748335.0
+2024-07,Delhi,Books,308205.0
+2024-07,Delhi,Electronics,22734530.0
+2024-07,Delhi,Fashion,2552763.0
+2024-07,Delhi,Grocery,462557.0
+2024-07,Delhi,Home & Kitchen,3913962.0
+2024-07,Hyderabad,Books,165541.0
+2024-07,Hyderabad,Electronics,15785827.0
+2024-07,Hyderabad,Fashion,1369315.0
+2024-07,Hyderabad,Grocery,256580.0
+2024-07,Hyderabad,Home & Kitchen,2840555.0
+2024-07,Jaipur,Books,111711.0
+2024-07,Jaipur,Electronics,5158287.0
+2024-07,Jaipur,Fashion,479173.0
+2024-07,Jaipur,Grocery,101882.0
+2024-07,Jaipur,Home & Kitchen,1082118.0
+2024-07,Kochi,Books,51042.0
+2024-07,Kochi,Electronics,3955925.0
+2024-07,Kochi,Fashion,215803.0
+2024-07,Kochi,Grocery,40650.0
+2024-07,Kochi,Home & Kitchen,656651.0
+2024-07,Kolkata,Books,156359.0
+2024-07,Kolkata,Electronics,12054808.0
+2024-07,Kolkata,Fashion,1133910.0
+2024-07,Kolkata,Grocery,195300.0
+2024-07,Kolkata,Home & Kitchen,1951587.0
+2024-07,Lucknow,Books,70168.0
+2024-07,Lucknow,Electronics,5959084.0
+2024-07,Lucknow,Fashion,446681.0
+2024-07,Lucknow,Grocery,90320.0
+2024-07,Lucknow,Home & Kitchen,853393.0
+2024-07,Mumbai,Books,467557.0
+2024-07,Mumbai,Electronics,24367153.0
+2024-07,Mumbai,Fashion,2765535.0
+2024-07,Mumbai,Grocery,442559.0
+2024-07,Mumbai,Home & Kitchen,4731225.0
+2024-07,Pune,Books,150075.0
+2024-07,Pune,Electronics,10822809.0
+2024-07,Pune,Fashion,955153.0
+2024-07,Pune,Grocery,190396.0
+2024-07,Pune,Home & Kitchen,2128174.0
+2024-08,Ahmedabad,Books,96008.0
+2024-08,Ahmedabad,Electronics,8870747.0
+2024-08,Ahmedabad,Fashion,760918.0
+2024-08,Ahmedabad,Grocery,138635.0
+2024-08,Ahmedabad,Home & Kitchen,1664575.0
+2024-08,Bangalore,Books,310756.0
+2024-08,Bangalore,Electronics,18458435.0
+2024-08,Bangalore,Fashion,1967075.0
+2024-08,Bangalore,Grocery,342015.0
+2024-08,Bangalore,Home & Kitchen,3873980.0
+2024-08,Chandigarh,Books,83623.0
+2024-08,Chandigarh,Electronics,4104447.0
+2024-08,Chandigarh,Fashion,495034.0
+2024-08,Chandigarh,Grocery,72411.0
+2024-08,Chandigarh,Home & Kitchen,770650.0
+2024-08,Chennai,Books,208602.0
+2024-08,Chennai,Electronics,13742767.0
+2024-08,Chennai,Fashion,1287293.0
+2024-08,Chennai,Grocery,213999.0
+2024-08,Chennai,Home & Kitchen,2691436.0
+2024-08,Delhi,Books,312445.0
+2024-08,Delhi,Electronics,23537033.0
+2024-08,Delhi,Fashion,2077057.0
+2024-08,Delhi,Grocery,363352.0
+2024-08,Delhi,Home & Kitchen,4223239.0
+2024-08,Hyderabad,Books,219927.0
+2024-08,Hyderabad,Electronics,15680890.0
+2024-08,Hyderabad,Fashion,1468750.0
+2024-08,Hyderabad,Grocery,283688.0
+2024-08,Hyderabad,Home & Kitchen,3016716.0
+2024-08,Jaipur,Books,101436.0
+2024-08,Jaipur,Electronics,6385465.0
+2024-08,Jaipur,Fashion,518922.0
+2024-08,Jaipur,Grocery,99167.0
+2024-08,Jaipur,Home & Kitchen,1190993.0
+2024-08,Kochi,Books,42252.0
+2024-08,Kochi,Electronics,3174407.0
+2024-08,Kochi,Fashion,232347.0
+2024-08,Kochi,Grocery,63221.0
+2024-08,Kochi,Home & Kitchen,662133.0
+2024-08,Kolkata,Books,158419.0
+2024-08,Kolkata,Electronics,8695665.0
+2024-08,Kolkata,Fashion,861821.0
+2024-08,Kolkata,Grocery,241071.0
+2024-08,Kolkata,Home & Kitchen,2005966.0
+2024-08,Lucknow,Books,74527.0
+2024-08,Lucknow,Electronics,6026837.0
+2024-08,Lucknow,Fashion,598702.0
+2024-08,Lucknow,Grocery,94194.0
+2024-08,Lucknow,Home & Kitchen,1004120.0
+2024-08,Mumbai,Books,381548.0
+2024-08,Mumbai,Electronics,25760799.0
+2024-08,Mumbai,Fashion,2503275.0
+2024-08,Mumbai,Grocery,445914.0
+2024-08,Mumbai,Home & Kitchen,4886095.0
+2024-08,Pune,Books,170763.0
+2024-08,Pune,Electronics,13116969.0
+2024-08,Pune,Fashion,1110003.0
+2024-08,Pune,Grocery,237094.0
+2024-08,Pune,Home & Kitchen,2651649.0
+2024-09,Ahmedabad,Books,127624.0
+2024-09,Ahmedabad,Electronics,6428946.0
+2024-09,Ahmedabad,Fashion,753530.0
+2024-09,Ahmedabad,Grocery,147536.0
+2024-09,Ahmedabad,Home & Kitchen,1839139.0
+2024-09,Bangalore,Books,298848.0
+2024-09,Bangalore,Electronics,22012530.0
+2024-09,Bangalore,Fashion,1993713.0
+2024-09,Bangalore,Grocery,359891.0
+2024-09,Bangalore,Home & Kitchen,4245565.0
+2024-09,Chandigarh,Books,61489.0
+2024-09,Chandigarh,Electronics,4310955.0
+2024-09,Chandigarh,Fashion,526115.0
+2024-09,Chandigarh,Grocery,70924.0
+2024-09,Chandigarh,Home & Kitchen,626098.0
+2024-09,Chennai,Books,210562.0
+2024-09,Chennai,Electronics,12959119.0
+2024-09,Chennai,Fashion,1259457.0
+2024-09,Chennai,Grocery,221778.0
+2024-09,Chennai,Home & Kitchen,2686436.0
+2024-09,Delhi,Books,344695.0
+2024-09,Delhi,Electronics,22733025.0
+2024-09,Delhi,Fashion,2054634.0
+2024-09,Delhi,Grocery,356435.0
+2024-09,Delhi,Home & Kitchen,4164897.0
+2024-09,Hyderabad,Books,243022.0
+2024-09,Hyderabad,Electronics,14190235.0
+2024-09,Hyderabad,Fashion,1373240.0
+2024-09,Hyderabad,Grocery,284235.0
+2024-09,Hyderabad,Home & Kitchen,2793660.0
+2024-09,Jaipur,Books,106807.0
+2024-09,Jaipur,Electronics,4878384.0
+2024-09,Jaipur,Fashion,657738.0
+2024-09,Jaipur,Grocery,101738.0
+2024-09,Jaipur,Home & Kitchen,1315177.0
+2024-09,Kochi,Books,40689.0
+2024-09,Kochi,Electronics,1863089.0
+2024-09,Kochi,Fashion,230136.0
+2024-09,Kochi,Grocery,44263.0
+2024-09,Kochi,Home & Kitchen,557024.0
+2024-09,Kolkata,Books,139640.0
+2024-09,Kolkata,Electronics,10690909.0
+2024-09,Kolkata,Fashion,1082995.0
+2024-09,Kolkata,Grocery,183039.0
+2024-09,Kolkata,Home & Kitchen,1877492.0
+2024-09,Lucknow,Books,73820.0
+2024-09,Lucknow,Electronics,4728304.0
+2024-09,Lucknow,Fashion,358116.0
+2024-09,Lucknow,Grocery,106299.0
+2024-09,Lucknow,Home & Kitchen,1150475.0
+2024-09,Mumbai,Books,391440.0
+2024-09,Mumbai,Electronics,24115050.0
+2024-09,Mumbai,Fashion,2338120.0
+2024-09,Mumbai,Grocery,451965.0
+2024-09,Mumbai,Home & Kitchen,4792992.0
+2024-09,Pune,Books,120924.0
+2024-09,Pune,Electronics,10919299.0
+2024-09,Pune,Fashion,1013471.0
+2024-09,Pune,Grocery,221383.0
+2024-09,Pune,Home & Kitchen,2135680.0
+2024-10,Ahmedabad,Books,104734.0
+2024-10,Ahmedabad,Electronics,7334721.0
+2024-10,Ahmedabad,Fashion,743295.0
+2024-10,Ahmedabad,Grocery,109823.0
+2024-10,Ahmedabad,Home & Kitchen,1842785.0
+2024-10,Bangalore,Books,320496.0
+2024-10,Bangalore,Electronics,20726573.0
+2024-10,Bangalore,Fashion,2032285.0
+2024-10,Bangalore,Grocery,404796.0
+2024-10,Bangalore,Home & Kitchen,4028092.0
+2024-10,Chandigarh,Books,76153.0
+2024-10,Chandigarh,Electronics,5110716.0
+2024-10,Chandigarh,Fashion,517023.0
+2024-10,Chandigarh,Grocery,82267.0
+2024-10,Chandigarh,Home & Kitchen,1214299.0
+2024-10,Chennai,Books,233200.0
+2024-10,Chennai,Electronics,15777459.0
+2024-10,Chennai,Fashion,1087267.0
+2024-10,Chennai,Grocery,241357.0
+2024-10,Chennai,Home & Kitchen,2675152.0
+2024-10,Delhi,Books,421161.0
+2024-10,Delhi,Electronics,19869544.0
+2024-10,Delhi,Fashion,2177651.0
+2024-10,Delhi,Grocery,409106.0
+2024-10,Delhi,Home & Kitchen,4228447.0
+2024-10,Hyderabad,Books,271198.0
+2024-10,Hyderabad,Electronics,15197429.0
+2024-10,Hyderabad,Fashion,1337908.0
+2024-10,Hyderabad,Grocery,219509.0
+2024-10,Hyderabad,Home & Kitchen,2632294.0
+2024-10,Jaipur,Books,96542.0
+2024-10,Jaipur,Electronics,5051363.0
+2024-10,Jaipur,Fashion,537908.0
+2024-10,Jaipur,Grocery,100378.0
+2024-10,Jaipur,Home & Kitchen,852851.0
+2024-10,Kochi,Books,27322.0
+2024-10,Kochi,Electronics,3034509.0
+2024-10,Kochi,Fashion,242169.0
+2024-10,Kochi,Grocery,64301.0
+2024-10,Kochi,Home & Kitchen,474685.0
+2024-10,Kolkata,Books,147748.0
+2024-10,Kolkata,Electronics,10292077.0
+2024-10,Kolkata,Fashion,877135.0
+2024-10,Kolkata,Grocery,220830.0
+2024-10,Kolkata,Home & Kitchen,1930939.0
+2024-10,Lucknow,Books,78617.0
+2024-10,Lucknow,Electronics,5726867.0
+2024-10,Lucknow,Fashion,456325.0
+2024-10,Lucknow,Grocery,89225.0
+2024-10,Lucknow,Home & Kitchen,1047403.0
+2024-10,Mumbai,Books,397915.0
+2024-10,Mumbai,Electronics,25224001.0
+2024-10,Mumbai,Fashion,2621009.0
+2024-10,Mumbai,Grocery,434082.0
+2024-10,Mumbai,Home & Kitchen,5104468.0
+2024-10,Pune,Books,204792.0
+2024-10,Pune,Electronics,10601660.0
+2024-10,Pune,Fashion,1112883.0
+2024-10,Pune,Grocery,199802.0
+2024-10,Pune,Home & Kitchen,1962682.0
+2024-11,Ahmedabad,Books,70586.0
+2024-11,Ahmedabad,Electronics,6159740.0
+2024-11,Ahmedabad,Fashion,614853.0
+2024-11,Ahmedabad,Grocery,136857.0
+2024-11,Ahmedabad,Home & Kitchen,1260576.0
+2024-11,Bangalore,Books,277917.0
+2024-11,Bangalore,Electronics,20494251.0
+2024-11,Bangalore,Fashion,2131717.0
+2024-11,Bangalore,Grocery,361717.0
+2024-11,Bangalore,Home & Kitchen,3569138.0
+2024-11,Chandigarh,Books,100061.0
+2024-11,Chandigarh,Electronics,4718790.0
+2024-11,Chandigarh,Fashion,538900.0
+2024-11,Chandigarh,Grocery,78911.0
+2024-11,Chandigarh,Home & Kitchen,1008715.0
+2024-11,Chennai,Books,206312.0
+2024-11,Chennai,Electronics,13800922.0
+2024-11,Chennai,Fashion,1106278.0
+2024-11,Chennai,Grocery,278480.0
+2024-11,Chennai,Home & Kitchen,2201803.0
+2024-11,Delhi,Books,409717.0
+2024-11,Delhi,Electronics,22580391.0
+2024-11,Delhi,Fashion,2134351.0
+2024-11,Delhi,Grocery,371931.0
+2024-11,Delhi,Home & Kitchen,4546544.0
+2024-11,Hyderabad,Books,228579.0
+2024-11,Hyderabad,Electronics,13558378.0
+2024-11,Hyderabad,Fashion,1559624.0
+2024-11,Hyderabad,Grocery,241463.0
+2024-11,Hyderabad,Home & Kitchen,2757079.0
+2024-11,Jaipur,Books,76153.0
+2024-11,Jaipur,Electronics,6765183.0
+2024-11,Jaipur,Fashion,488086.0
+2024-11,Jaipur,Grocery,111153.0
+2024-11,Jaipur,Home & Kitchen,1090177.0
+2024-11,Kochi,Books,31837.0
+2024-11,Kochi,Electronics,3286243.0
+2024-11,Kochi,Fashion,285471.0
+2024-11,Kochi,Grocery,52313.0
+2024-11,Kochi,Home & Kitchen,360828.0
+2024-11,Kolkata,Books,160996.0
+2024-11,Kolkata,Electronics,9742724.0
+2024-11,Kolkata,Fashion,931858.0
+2024-11,Kolkata,Grocery,143387.0
+2024-11,Kolkata,Home & Kitchen,1887190.0
+2024-11,Lucknow,Books,65441.0
+2024-11,Lucknow,Electronics,6244962.0
+2024-11,Lucknow,Fashion,526180.0
+2024-11,Lucknow,Grocery,79412.0
+2024-11,Lucknow,Home & Kitchen,1073535.0
+2024-11,Mumbai,Books,389436.0
+2024-11,Mumbai,Electronics,23439518.0
+2024-11,Mumbai,Fashion,2266925.0
+2024-11,Mumbai,Grocery,417394.0
+2024-11,Mumbai,Home & Kitchen,4553325.0
+2024-11,Pune,Books,234562.0
+2024-11,Pune,Electronics,9379454.0
+2024-11,Pune,Fashion,1036240.0
+2024-11,Pune,Grocery,181307.0
+2024-11,Pune,Home & Kitchen,1914203.0
+2024-12,Ahmedabad,Books,142230.0
+2024-12,Ahmedabad,Electronics,6954983.0
+2024-12,Ahmedabad,Fashion,733293.0
+2024-12,Ahmedabad,Grocery,115385.0
+2024-12,Ahmedabad,Home & Kitchen,1412604.0
+2024-12,Bangalore,Books,299213.0
+2024-12,Bangalore,Electronics,21581683.0
+2024-12,Bangalore,Fashion,1933064.0
+2024-12,Bangalore,Grocery,429657.0
+2024-12,Bangalore,Home & Kitchen,3815479.0
+2024-12,Chandigarh,Books,82273.0
+2024-12,Chandigarh,Electronics,3096538.0
+2024-12,Chandigarh,Fashion,479499.0
+2024-12,Chandigarh,Grocery,72981.0
+2024-12,Chandigarh,Home & Kitchen,650453.0
+2024-12,Chennai,Books,166943.0
+2024-12,Chennai,Electronics,11986982.0
+2024-12,Chennai,Fashion,1154061.0
+2024-12,Chennai,Grocery,229642.0
+2024-12,Chennai,Home & Kitchen,2311830.0
+2024-12,Delhi,Books,374784.0
+2024-12,Delhi,Electronics,20164780.0
+2024-12,Delhi,Fashion,2189176.0
+2024-12,Delhi,Grocery,396731.0
+2024-12,Delhi,Home & Kitchen,4155581.0
+2024-12,Hyderabad,Books,242914.0
+2024-12,Hyderabad,Electronics,15252060.0
+2024-12,Hyderabad,Fashion,1705077.0
+2024-12,Hyderabad,Grocery,256049.0
+2024-12,Hyderabad,Home & Kitchen,3091901.0
+2024-12,Jaipur,Books,117412.0
+2024-12,Jaipur,Electronics,6964822.0
+2024-12,Jaipur,Fashion,669897.0
+2024-12,Jaipur,Grocery,116106.0
+2024-12,Jaipur,Home & Kitchen,1304700.0
+2024-12,Kochi,Books,24201.0
+2024-12,Kochi,Electronics,3542883.0
+2024-12,Kochi,Fashion,292755.0
+2024-12,Kochi,Grocery,59187.0
+2024-12,Kochi,Home & Kitchen,502113.0
+2024-12,Kolkata,Books,147726.0
+2024-12,Kolkata,Electronics,9244136.0
+2024-12,Kolkata,Fashion,881987.0
+2024-12,Kolkata,Grocery,223342.0
+2024-12,Kolkata,Home & Kitchen,2295508.0
+2024-12,Lucknow,Books,45840.0
+2024-12,Lucknow,Electronics,4728501.0
+2024-12,Lucknow,Fashion,526992.0
+2024-12,Lucknow,Grocery,116653.0
+2024-12,Lucknow,Home & Kitchen,1356218.0
+2024-12,Mumbai,Books,474912.0
+2024-12,Mumbai,Electronics,25002776.0
+2024-12,Mumbai,Fashion,2577127.0
+2024-12,Mumbai,Grocery,505283.0
+2024-12,Mumbai,Home & Kitchen,5376577.0
+2024-12,Pune,Books,194978.0
+2024-12,Pune,Electronics,11210629.0
+2024-12,Pune,Fashion,828381.0
+2024-12,Pune,Grocery,161787.0
+2024-12,Pune,Home & Kitchen,1578476.0
+2025-01,Ahmedabad,Books,106459.0
+2025-01,Ahmedabad,Electronics,8628900.0
+2025-01,Ahmedabad,Fashion,660228.0
+2025-01,Ahmedabad,Grocery,106627.0
+2025-01,Ahmedabad,Home & Kitchen,1588995.0
+2025-01,Bangalore,Books,301976.0
+2025-01,Bangalore,Electronics,18218615.0
+2025-01,Bangalore,Fashion,1879497.0
+2025-01,Bangalore,Grocery,340929.0
+2025-01,Bangalore,Home & Kitchen,4178561.0
+2025-01,Chandigarh,Books,86337.0
+2025-01,Chandigarh,Electronics,3997821.0
+2025-01,Chandigarh,Fashion,598657.0
+2025-01,Chandigarh,Grocery,99273.0
+2025-01,Chandigarh,Home & Kitchen,794230.0
+2025-01,Chennai,Books,202307.0
+2025-01,Chennai,Electronics,14663088.0
+2025-01,Chennai,Fashion,1132909.0
+2025-01,Chennai,Grocery,230786.0
+2025-01,Chennai,Home & Kitchen,2234314.0
+2025-01,Delhi,Books,357861.0
+2025-01,Delhi,Electronics,21062451.0
+2025-01,Delhi,Fashion,2189271.0
+2025-01,Delhi,Grocery,387525.0
+2025-01,Delhi,Home & Kitchen,4438662.0
+2025-01,Hyderabad,Books,170183.0
+2025-01,Hyderabad,Electronics,16483851.0
+2025-01,Hyderabad,Fashion,1426026.0
+2025-01,Hyderabad,Grocery,246674.0
+2025-01,Hyderabad,Home & Kitchen,3427638.0
+2025-01,Jaipur,Books,71333.0
+2025-01,Jaipur,Electronics,5884182.0
+2025-01,Jaipur,Fashion,518469.0
+2025-01,Jaipur,Grocery,125523.0
+2025-01,Jaipur,Home & Kitchen,1153708.0
+2025-01,Kochi,Books,43623.0
+2025-01,Kochi,Electronics,2485261.0
+2025-01,Kochi,Fashion,220749.0
+2025-01,Kochi,Grocery,52111.0
+2025-01,Kochi,Home & Kitchen,363594.0
+2025-01,Kolkata,Books,163369.0
+2025-01,Kolkata,Electronics,8924353.0
+2025-01,Kolkata,Fashion,891308.0
+2025-01,Kolkata,Grocery,199483.0
+2025-01,Kolkata,Home & Kitchen,2007988.0
+2025-01,Lucknow,Books,96980.0
+2025-01,Lucknow,Electronics,5887435.0
+2025-01,Lucknow,Fashion,611071.0
+2025-01,Lucknow,Grocery,80113.0
+2025-01,Lucknow,Home & Kitchen,1228291.0
+2025-01,Mumbai,Books,451029.0
+2025-01,Mumbai,Electronics,24885578.0
+2025-01,Mumbai,Fashion,2403631.0
+2025-01,Mumbai,Grocery,435128.0
+2025-01,Mumbai,Home & Kitchen,4734115.0
+2025-01,Pune,Books,191893.0
+2025-01,Pune,Electronics,12468196.0
+2025-01,Pune,Fashion,1019775.0
+2025-01,Pune,Grocery,210402.0
+2025-01,Pune,Home & Kitchen,1862343.0
+2025-02,Ahmedabad,Books,106710.0
+2025-02,Ahmedabad,Electronics,8581295.0
+2025-02,Ahmedabad,Fashion,702420.0
+2025-02,Ahmedabad,Grocery,125716.0
+2025-02,Ahmedabad,Home & Kitchen,1378480.0
+2025-02,Bangalore,Books,258836.0
+2025-02,Bangalore,Electronics,18658464.0
+2025-02,Bangalore,Fashion,1656438.0
+2025-02,Bangalore,Grocery,332750.0
+2025-02,Bangalore,Home & Kitchen,3461651.0
+2025-02,Chandigarh,Books,50189.0
+2025-02,Chandigarh,Electronics,3694031.0
+2025-02,Chandigarh,Fashion,352565.0
+2025-02,Chandigarh,Grocery,86084.0
+2025-02,Chandigarh,Home & Kitchen,755397.0
+2025-02,Chennai,Books,155650.0
+2025-02,Chennai,Electronics,12945658.0
+2025-02,Chennai,Fashion,1073281.0
+2025-02,Chennai,Grocery,228140.0
+2025-02,Chennai,Home & Kitchen,2148043.0
+2025-02,Delhi,Books,367157.0
+2025-02,Delhi,Electronics,21009135.0
+2025-02,Delhi,Fashion,2032016.0
+2025-02,Delhi,Grocery,355376.0
+2025-02,Delhi,Home & Kitchen,4371417.0
+2025-02,Hyderabad,Books,177616.0
+2025-02,Hyderabad,Electronics,13364057.0
+2025-02,Hyderabad,Fashion,1205153.0
+2025-02,Hyderabad,Grocery,251591.0
+2025-02,Hyderabad,Home & Kitchen,2939743.0
+2025-02,Jaipur,Books,65873.0
+2025-02,Jaipur,Electronics,3847006.0
+2025-02,Jaipur,Fashion,657288.0
+2025-02,Jaipur,Grocery,99199.0
+2025-02,Jaipur,Home & Kitchen,1123356.0
+2025-02,Kochi,Books,38277.0
+2025-02,Kochi,Electronics,2476131.0
+2025-02,Kochi,Fashion,244991.0
+2025-02,Kochi,Grocery,32641.0
+2025-02,Kochi,Home & Kitchen,390051.0
+2025-02,Kolkata,Books,158708.0
+2025-02,Kolkata,Electronics,8487655.0
+2025-02,Kolkata,Fashion,1011393.0
+2025-02,Kolkata,Grocery,157813.0
+2025-02,Kolkata,Home & Kitchen,1819367.0
+2025-02,Lucknow,Books,91575.0
+2025-02,Lucknow,Electronics,5846407.0
+2025-02,Lucknow,Fashion,528682.0
+2025-02,Lucknow,Grocery,106361.0
+2025-02,Lucknow,Home & Kitchen,1016033.0
+2025-02,Mumbai,Books,362344.0
+2025-02,Mumbai,Electronics,24683381.0
+2025-02,Mumbai,Fashion,2166198.0
+2025-02,Mumbai,Grocery,461698.0
+2025-02,Mumbai,Home & Kitchen,5130451.0
+2025-02,Pune,Books,144304.0
+2025-02,Pune,Electronics,9814252.0
+2025-02,Pune,Fashion,843331.0
+2025-02,Pune,Grocery,176695.0
+2025-02,Pune,Home & Kitchen,1880278.0
+2025-03,Ahmedabad,Books,101092.0
+2025-03,Ahmedabad,Electronics,6105457.0
+2025-03,Ahmedabad,Fashion,787073.0
+2025-03,Ahmedabad,Grocery,163715.0
+2025-03,Ahmedabad,Home & Kitchen,1484983.0
+2025-03,Bangalore,Books,298165.0
+2025-03,Bangalore,Electronics,21231090.0
+2025-03,Bangalore,Fashion,2074367.0
+2025-03,Bangalore,Grocery,360792.0
+2025-03,Bangalore,Home & Kitchen,4206758.0
+2025-03,Chandigarh,Books,74366.0
+2025-03,Chandigarh,Electronics,5157880.0
+2025-03,Chandigarh,Fashion,404230.0
+2025-03,Chandigarh,Grocery,84438.0
+2025-03,Chandigarh,Home & Kitchen,793462.0
+2025-03,Chennai,Books,196774.0
+2025-03,Chennai,Electronics,11154308.0
+2025-03,Chennai,Fashion,1333913.0
+2025-03,Chennai,Grocery,194650.0
+2025-03,Chennai,Home & Kitchen,2459085.0
+2025-03,Delhi,Books,365510.0
+2025-03,Delhi,Electronics,22322489.0
+2025-03,Delhi,Fashion,2213456.0
+2025-03,Delhi,Grocery,370568.0
+2025-03,Delhi,Home & Kitchen,4203136.0
+2025-03,Hyderabad,Books,194324.0
+2025-03,Hyderabad,Electronics,16108926.0
+2025-03,Hyderabad,Fashion,1464729.0
+2025-03,Hyderabad,Grocery,271213.0
+2025-03,Hyderabad,Home & Kitchen,2967841.0
+2025-03,Jaipur,Books,68733.0
+2025-03,Jaipur,Electronics,6516850.0
+2025-03,Jaipur,Fashion,615300.0
+2025-03,Jaipur,Grocery,97610.0
+2025-03,Jaipur,Home & Kitchen,1427002.0
+2025-03,Kochi,Books,54547.0
+2025-03,Kochi,Electronics,3664671.0
+2025-03,Kochi,Fashion,247640.0
+2025-03,Kochi,Grocery,43971.0
+2025-03,Kochi,Home & Kitchen,536846.0
+2025-03,Kolkata,Books,149929.0
+2025-03,Kolkata,Electronics,11371633.0
+2025-03,Kolkata,Fashion,953287.0
+2025-03,Kolkata,Grocery,164613.0
+2025-03,Kolkata,Home & Kitchen,1862492.0
+2025-03,Lucknow,Books,85864.0
+2025-03,Lucknow,Electronics,7021509.0
+2025-03,Lucknow,Fashion,582365.0
+2025-03,Lucknow,Grocery,120127.0
+2025-03,Lucknow,Home & Kitchen,1070647.0
+2025-03,Mumbai,Books,417366.0
+2025-03,Mumbai,Electronics,23522265.0
+2025-03,Mumbai,Fashion,2086547.0
+2025-03,Mumbai,Grocery,490891.0
+2025-03,Mumbai,Home & Kitchen,5338009.0
+2025-03,Pune,Books,158876.0
+2025-03,Pune,Electronics,10991290.0
+2025-03,Pune,Fashion,1037995.0
+2025-03,Pune,Grocery,195987.0
+2025-03,Pune,Home & Kitchen,2568400.0
+2025-04,Ahmedabad,Books,106194.0
+2025-04,Ahmedabad,Electronics,8082381.0
+2025-04,Ahmedabad,Fashion,617501.0
+2025-04,Ahmedabad,Grocery,106422.0
+2025-04,Ahmedabad,Home & Kitchen,981799.0
+2025-04,Bangalore,Books,264260.0
+2025-04,Bangalore,Electronics,19759595.0
+2025-04,Bangalore,Fashion,2110788.0
+2025-04,Bangalore,Grocery,351620.0
+2025-04,Bangalore,Home & Kitchen,3835009.0
+2025-04,Chandigarh,Books,48857.0
+2025-04,Chandigarh,Electronics,4434361.0
+2025-04,Chandigarh,Fashion,426757.0
+2025-04,Chandigarh,Grocery,96033.0
+2025-04,Chandigarh,Home & Kitchen,890810.0
+2025-04,Chennai,Books,215306.0
+2025-04,Chennai,Electronics,11670037.0
+2025-04,Chennai,Fashion,1158889.0
+2025-04,Chennai,Grocery,228098.0
+2025-04,Chennai,Home & Kitchen,2139447.0
+2025-04,Delhi,Books,358721.0
+2025-04,Delhi,Electronics,21754791.0
+2025-04,Delhi,Fashion,2209694.0
+2025-04,Delhi,Grocery,417328.0
+2025-04,Delhi,Home & Kitchen,4495751.0
+2025-04,Hyderabad,Books,221090.0
+2025-04,Hyderabad,Electronics,13515830.0
+2025-04,Hyderabad,Fashion,1437100.0
+2025-04,Hyderabad,Grocery,266892.0
+2025-04,Hyderabad,Home & Kitchen,2939848.0
+2025-04,Jaipur,Books,75355.0
+2025-04,Jaipur,Electronics,4563775.0
+2025-04,Jaipur,Fashion,544885.0
+2025-04,Jaipur,Grocery,83433.0
+2025-04,Jaipur,Home & Kitchen,923027.0
+2025-04,Kochi,Books,56874.0
+2025-04,Kochi,Electronics,2999720.0
+2025-04,Kochi,Fashion,258103.0
+2025-04,Kochi,Grocery,48364.0
+2025-04,Kochi,Home & Kitchen,597822.0
+2025-04,Kolkata,Books,158512.0
+2025-04,Kolkata,Electronics,7842506.0
+2025-04,Kolkata,Fashion,830002.0
+2025-04,Kolkata,Grocery,151748.0
+2025-04,Kolkata,Home & Kitchen,1838516.0
+2025-04,Lucknow,Books,82591.0
+2025-04,Lucknow,Electronics,5557542.0
+2025-04,Lucknow,Fashion,572060.0
+2025-04,Lucknow,Grocery,114381.0
+2025-04,Lucknow,Home & Kitchen,1441438.0
+2025-04,Mumbai,Books,388472.0
+2025-04,Mumbai,Electronics,25258393.0
+2025-04,Mumbai,Fashion,2482400.0
+2025-04,Mumbai,Grocery,448159.0
+2025-04,Mumbai,Home & Kitchen,4483233.0
+2025-04,Pune,Books,179652.0
+2025-04,Pune,Electronics,10548759.0
+2025-04,Pune,Fashion,888221.0
+2025-04,Pune,Grocery,209502.0
+2025-04,Pune,Home & Kitchen,2002775.0
+2025-05,Ahmedabad,Books,90694.0
+2025-05,Ahmedabad,Electronics,7357652.0
+2025-05,Ahmedabad,Fashion,716200.0
+2025-05,Ahmedabad,Grocery,146059.0
+2025-05,Ahmedabad,Home & Kitchen,1640946.0
+2025-05,Bangalore,Books,294341.0
+2025-05,Bangalore,Electronics,20638258.0
+2025-05,Bangalore,Fashion,2130074.0
+2025-05,Bangalore,Grocery,344006.0
+2025-05,Bangalore,Home & Kitchen,3978819.0
+2025-05,Chandigarh,Books,50699.0
+2025-05,Chandigarh,Electronics,5175831.0
+2025-05,Chandigarh,Fashion,364578.0
+2025-05,Chandigarh,Grocery,71176.0
+2025-05,Chandigarh,Home & Kitchen,711293.0
+2025-05,Chennai,Books,225047.0
+2025-05,Chennai,Electronics,10201502.0
+2025-05,Chennai,Fashion,1070047.0
+2025-05,Chennai,Grocery,240969.0
+2025-05,Chennai,Home & Kitchen,2408512.0
+2025-05,Delhi,Books,302807.0
+2025-05,Delhi,Electronics,23947244.0
+2025-05,Delhi,Fashion,2201305.0
+2025-05,Delhi,Grocery,440102.0
+2025-05,Delhi,Home & Kitchen,4560630.0
+2025-05,Hyderabad,Books,192613.0
+2025-05,Hyderabad,Electronics,12187681.0
+2025-05,Hyderabad,Fashion,1357239.0
+2025-05,Hyderabad,Grocery,220126.0
+2025-05,Hyderabad,Home & Kitchen,2702141.0
+2025-05,Jaipur,Books,108252.0
+2025-05,Jaipur,Electronics,7663134.0
+2025-05,Jaipur,Fashion,689725.0
+2025-05,Jaipur,Grocery,101264.0
+2025-05,Jaipur,Home & Kitchen,1115078.0
+2025-05,Kochi,Books,66216.0
+2025-05,Kochi,Electronics,2688483.0
+2025-05,Kochi,Fashion,255052.0
+2025-05,Kochi,Grocery,46431.0
+2025-05,Kochi,Home & Kitchen,781255.0
+2025-05,Kolkata,Books,162477.0
+2025-05,Kolkata,Electronics,10128096.0
+2025-05,Kolkata,Fashion,971778.0
+2025-05,Kolkata,Grocery,211490.0
+2025-05,Kolkata,Home & Kitchen,1796735.0
+2025-05,Lucknow,Books,77428.0
+2025-05,Lucknow,Electronics,5096674.0
+2025-05,Lucknow,Fashion,494773.0
+2025-05,Lucknow,Grocery,96413.0
+2025-05,Lucknow,Home & Kitchen,1247767.0
+2025-05,Mumbai,Books,409432.0
+2025-05,Mumbai,Electronics,26169056.0
+2025-05,Mumbai,Fashion,2505866.0
+2025-05,Mumbai,Grocery,455486.0
+2025-05,Mumbai,Home & Kitchen,4617969.0
+2025-05,Pune,Books,197063.0
+2025-05,Pune,Electronics,10484481.0
+2025-05,Pune,Fashion,1311542.0
+2025-05,Pune,Grocery,192688.0
+2025-05,Pune,Home & Kitchen,2296974.0
+2025-06,Ahmedabad,Books,102497.0
+2025-06,Ahmedabad,Electronics,7023281.0
+2025-06,Ahmedabad,Fashion,644554.0
+2025-06,Ahmedabad,Grocery,145335.0
+2025-06,Ahmedabad,Home & Kitchen,1460726.0
+2025-06,Bangalore,Books,347419.0
+2025-06,Bangalore,Electronics,21109656.0
+2025-06,Bangalore,Fashion,1876859.0
+2025-06,Bangalore,Grocery,356217.0
+2025-06,Bangalore,Home & Kitchen,3625342.0
+2025-06,Chandigarh,Books,68477.0
+2025-06,Chandigarh,Electronics,3350155.0
+2025-06,Chandigarh,Fashion,507350.0
+2025-06,Chandigarh,Grocery,106869.0
+2025-06,Chandigarh,Home & Kitchen,821333.0
+2025-06,Chennai,Books,188711.0
+2025-06,Chennai,Electronics,13228232.0
+2025-06,Chennai,Fashion,1242702.0
+2025-06,Chennai,Grocery,178931.0
+2025-06,Chennai,Home & Kitchen,2269907.0
+2025-06,Delhi,Books,334727.0
+2025-06,Delhi,Electronics,25123402.0
+2025-06,Delhi,Fashion,2043739.0
+2025-06,Delhi,Grocery,358358.0
+2025-06,Delhi,Home & Kitchen,4346331.0
+2025-06,Hyderabad,Books,212986.0
+2025-06,Hyderabad,Electronics,12720051.0
+2025-06,Hyderabad,Fashion,1423030.0
+2025-06,Hyderabad,Grocery,247956.0
+2025-06,Hyderabad,Home & Kitchen,2175889.0
+2025-06,Jaipur,Books,109119.0
+2025-06,Jaipur,Electronics,5521232.0
+2025-06,Jaipur,Fashion,684902.0
+2025-06,Jaipur,Grocery,114453.0
+2025-06,Jaipur,Home & Kitchen,1243296.0
+2025-06,Kochi,Books,22240.0
+2025-06,Kochi,Electronics,2858156.0
+2025-06,Kochi,Fashion,245872.0
+2025-06,Kochi,Grocery,46864.0
+2025-06,Kochi,Home & Kitchen,447855.0
+2025-06,Kolkata,Books,111572.0
+2025-06,Kolkata,Electronics,9067752.0
+2025-06,Kolkata,Fashion,1036145.0
+2025-06,Kolkata,Grocery,159634.0
+2025-06,Kolkata,Home & Kitchen,1961789.0
+2025-06,Lucknow,Books,83276.0
+2025-06,Lucknow,Electronics,5096189.0
+2025-06,Lucknow,Fashion,545406.0
+2025-06,Lucknow,Grocery,85214.0
+2025-06,Lucknow,Home & Kitchen,1312852.0
+2025-06,Mumbai,Books,379874.0
+2025-06,Mumbai,Electronics,24831026.0
+2025-06,Mumbai,Fashion,2459573.0
+2025-06,Mumbai,Grocery,453570.0
+2025-06,Mumbai,Home & Kitchen,5057627.0
+2025-06,Pune,Books,193006.0
+2025-06,Pune,Electronics,12450165.0
+2025-06,Pune,Fashion,1128164.0
+2025-06,Pune,Grocery,205572.0
+2025-06,Pune,Home & Kitchen,2241767.0
+2025-07,Ahmedabad,Books,89456.0
+2025-07,Ahmedabad,Electronics,6848434.0
+2025-07,Ahmedabad,Fashion,567127.0
+2025-07,Ahmedabad,Grocery,163564.0
+2025-07,Ahmedabad,Home & Kitchen,1614928.0
+2025-07,Bangalore,Books,347762.0
+2025-07,Bangalore,Electronics,19758636.0
+2025-07,Bangalore,Fashion,2044626.0
+2025-07,Bangalore,Grocery,405088.0
+2025-07,Bangalore,Home & Kitchen,4745009.0
+2025-07,Chandigarh,Books,53472.0
+2025-07,Chandigarh,Electronics,5071829.0
+2025-07,Chandigarh,Fashion,454264.0
+2025-07,Chandigarh,Grocery,70502.0
+2025-07,Chandigarh,Home & Kitchen,859026.0
+2025-07,Chennai,Books,157478.0
+2025-07,Chennai,Electronics,12096244.0
+2025-07,Chennai,Fashion,1133423.0
+2025-07,Chennai,Grocery,222907.0
+2025-07,Chennai,Home & Kitchen,2040125.0
+2025-07,Delhi,Books,315325.0
+2025-07,Delhi,Electronics,23634022.0
+2025-07,Delhi,Fashion,2129160.0
+2025-07,Delhi,Grocery,368325.0
+2025-07,Delhi,Home & Kitchen,4831005.0
+2025-07,Hyderabad,Books,186048.0
+2025-07,Hyderabad,Electronics,14506274.0
+2025-07,Hyderabad,Fashion,1255732.0
+2025-07,Hyderabad,Grocery,236840.0
+2025-07,Hyderabad,Home & Kitchen,2772278.0
+2025-07,Jaipur,Books,84302.0
+2025-07,Jaipur,Electronics,5876798.0
+2025-07,Jaipur,Fashion,584874.0
+2025-07,Jaipur,Grocery,121463.0
+2025-07,Jaipur,Home & Kitchen,820110.0
+2025-07,Kochi,Books,33261.0
+2025-07,Kochi,Electronics,2367623.0
+2025-07,Kochi,Fashion,223101.0
+2025-07,Kochi,Grocery,24186.0
+2025-07,Kochi,Home & Kitchen,816071.0
+2025-07,Kolkata,Books,159315.0
+2025-07,Kolkata,Electronics,9529634.0
+2025-07,Kolkata,Fashion,920659.0
+2025-07,Kolkata,Grocery,177860.0
+2025-07,Kolkata,Home & Kitchen,1837959.0
+2025-07,Lucknow,Books,108794.0
+2025-07,Lucknow,Electronics,4931206.0
+2025-07,Lucknow,Fashion,609374.0
+2025-07,Lucknow,Grocery,81971.0
+2025-07,Lucknow,Home & Kitchen,1119842.0
+2025-07,Mumbai,Books,431245.0
+2025-07,Mumbai,Electronics,26760090.0
+2025-07,Mumbai,Fashion,2590315.0
+2025-07,Mumbai,Grocery,459104.0
+2025-07,Mumbai,Home & Kitchen,5495838.0
+2025-07,Pune,Books,199245.0
+2025-07,Pune,Electronics,10535430.0
+2025-07,Pune,Fashion,1233788.0
+2025-07,Pune,Grocery,219853.0
+2025-07,Pune,Home & Kitchen,2233521.0
+2025-08,Ahmedabad,Books,92441.0
+2025-08,Ahmedabad,Electronics,7422158.0
+2025-08,Ahmedabad,Fashion,732535.0
+2025-08,Ahmedabad,Grocery,105389.0
+2025-08,Ahmedabad,Home & Kitchen,1338805.0
+2025-08,Bangalore,Books,299000.0
+2025-08,Bangalore,Electronics,20829630.0
+2025-08,Bangalore,Fashion,1949833.0
+2025-08,Bangalore,Grocery,358876.0
+2025-08,Bangalore,Home & Kitchen,4091641.0
+2025-08,Chandigarh,Books,50951.0
+2025-08,Chandigarh,Electronics,4843371.0
+2025-08,Chandigarh,Fashion,508093.0
+2025-08,Chandigarh,Grocery,57644.0
+2025-08,Chandigarh,Home & Kitchen,646515.0
+2025-08,Chennai,Books,228677.0
+2025-08,Chennai,Electronics,11886065.0
+2025-08,Chennai,Fashion,1138673.0
+2025-08,Chennai,Grocery,295507.0
+2025-08,Chennai,Home & Kitchen,3069016.0
+2025-08,Delhi,Books,362049.0
+2025-08,Delhi,Electronics,25954104.0
+2025-08,Delhi,Fashion,2200737.0
+2025-08,Delhi,Grocery,403384.0
+2025-08,Delhi,Home & Kitchen,3854340.0
+2025-08,Hyderabad,Books,197665.0
+2025-08,Hyderabad,Electronics,16760324.0
+2025-08,Hyderabad,Fashion,1419389.0
+2025-08,Hyderabad,Grocery,276103.0
+2025-08,Hyderabad,Home & Kitchen,3013579.0
+2025-08,Jaipur,Books,79865.0
+2025-08,Jaipur,Electronics,5530429.0
+2025-08,Jaipur,Fashion,577241.0
+2025-08,Jaipur,Grocery,151030.0
+2025-08,Jaipur,Home & Kitchen,1142660.0
+2025-08,Kochi,Books,35166.0
+2025-08,Kochi,Electronics,2319343.0
+2025-08,Kochi,Fashion,301861.0
+2025-08,Kochi,Grocery,55290.0
+2025-08,Kochi,Home & Kitchen,346874.0
+2025-08,Kolkata,Books,158962.0
+2025-08,Kolkata,Electronics,9830006.0
+2025-08,Kolkata,Fashion,985163.0
+2025-08,Kolkata,Grocery,213633.0
+2025-08,Kolkata,Home & Kitchen,1832800.0
+2025-08,Lucknow,Books,92724.0
+2025-08,Lucknow,Electronics,6079348.0
+2025-08,Lucknow,Fashion,623858.0
+2025-08,Lucknow,Grocery,119816.0
+2025-08,Lucknow,Home & Kitchen,1114502.0
+2025-08,Mumbai,Books,455356.0
+2025-08,Mumbai,Electronics,24956336.0
+2025-08,Mumbai,Fashion,2753476.0
+2025-08,Mumbai,Grocery,508952.0
+2025-08,Mumbai,Home & Kitchen,5554894.0
+2025-08,Pune,Books,193595.0
+2025-08,Pune,Electronics,11875853.0
+2025-08,Pune,Fashion,1061952.0
+2025-08,Pune,Grocery,220386.0
+2025-08,Pune,Home & Kitchen,2110108.0
+2025-09,Ahmedabad,Books,81758.0
+2025-09,Ahmedabad,Electronics,6710963.0
+2025-09,Ahmedabad,Fashion,513427.0
+2025-09,Ahmedabad,Grocery,116758.0
+2025-09,Ahmedabad,Home & Kitchen,815511.0
+2025-09,Bangalore,Books,326821.0
+2025-09,Bangalore,Electronics,21141771.0
+2025-09,Bangalore,Fashion,1849215.0
+2025-09,Bangalore,Grocery,362902.0
+2025-09,Bangalore,Home & Kitchen,3678479.0
+2025-09,Chandigarh,Books,63648.0
+2025-09,Chandigarh,Electronics,4178677.0
+2025-09,Chandigarh,Fashion,289915.0
+2025-09,Chandigarh,Grocery,79606.0
+2025-09,Chandigarh,Home & Kitchen,602273.0
+2025-09,Chennai,Books,183011.0
+2025-09,Chennai,Electronics,13835276.0
+2025-09,Chennai,Fashion,1133867.0
+2025-09,Chennai,Grocery,231718.0
+2025-09,Chennai,Home & Kitchen,2487428.0
+2025-09,Delhi,Books,307093.0
+2025-09,Delhi,Electronics,21095474.0
+2025-09,Delhi,Fashion,2133271.0
+2025-09,Delhi,Grocery,421982.0
+2025-09,Delhi,Home & Kitchen,4167102.0
+2025-09,Hyderabad,Books,233418.0
+2025-09,Hyderabad,Electronics,14573233.0
+2025-09,Hyderabad,Fashion,1447739.0
+2025-09,Hyderabad,Grocery,251074.0
+2025-09,Hyderabad,Home & Kitchen,3035628.0
+2025-09,Jaipur,Books,78971.0
+2025-09,Jaipur,Electronics,5175123.0
+2025-09,Jaipur,Fashion,592507.0
+2025-09,Jaipur,Grocery,93716.0
+2025-09,Jaipur,Home & Kitchen,1065794.0
+2025-09,Kochi,Books,30248.0
+2025-09,Kochi,Electronics,2556931.0
+2025-09,Kochi,Fashion,171350.0
+2025-09,Kochi,Grocery,31404.0
+2025-09,Kochi,Home & Kitchen,360410.0
+2025-09,Kolkata,Books,153714.0
+2025-09,Kolkata,Electronics,9442530.0
+2025-09,Kolkata,Fashion,870450.0
+2025-09,Kolkata,Grocery,147952.0
+2025-09,Kolkata,Home & Kitchen,1892907.0
+2025-09,Lucknow,Books,124015.0
+2025-09,Lucknow,Electronics,6274385.0
+2025-09,Lucknow,Fashion,505455.0
+2025-09,Lucknow,Grocery,126024.0
+2025-09,Lucknow,Home & Kitchen,985920.0
+2025-09,Mumbai,Books,438314.0
+2025-09,Mumbai,Electronics,25111336.0
+2025-09,Mumbai,Fashion,2521400.0
+2025-09,Mumbai,Grocery,431601.0
+2025-09,Mumbai,Home & Kitchen,4909971.0
+2025-09,Pune,Books,150257.0
+2025-09,Pune,Electronics,11022333.0
+2025-09,Pune,Fashion,961421.0
+2025-09,Pune,Grocery,215086.0
+2025-09,Pune,Home & Kitchen,2318178.0
+2025-10,Ahmedabad,Books,131016.0
+2025-10,Ahmedabad,Electronics,8181890.0
+2025-10,Ahmedabad,Fashion,767165.0
+2025-10,Ahmedabad,Grocery,119305.0
+2025-10,Ahmedabad,Home & Kitchen,1205914.0
+2025-10,Bangalore,Books,394908.0
+2025-10,Bangalore,Electronics,24025804.0
+2025-10,Bangalore,Fashion,2069348.0
+2025-10,Bangalore,Grocery,377572.0
+2025-10,Bangalore,Home & Kitchen,3717627.0
+2025-10,Chandigarh,Books,85713.0
+2025-10,Chandigarh,Electronics,4589661.0
+2025-10,Chandigarh,Fashion,415607.0
+2025-10,Chandigarh,Grocery,77109.0
+2025-10,Chandigarh,Home & Kitchen,1147961.0
+2025-10,Chennai,Books,214531.0
+2025-10,Chennai,Electronics,14662905.0
+2025-10,Chennai,Fashion,1282061.0
+2025-10,Chennai,Grocery,257014.0
+2025-10,Chennai,Home & Kitchen,2158945.0
+2025-10,Delhi,Books,347645.0
+2025-10,Delhi,Electronics,22739852.0
+2025-10,Delhi,Fashion,2418510.0
+2025-10,Delhi,Grocery,416601.0
+2025-10,Delhi,Home & Kitchen,4061141.0
+2025-10,Hyderabad,Books,227029.0
+2025-10,Hyderabad,Electronics,15760206.0
+2025-10,Hyderabad,Fashion,1483946.0
+2025-10,Hyderabad,Grocery,266911.0
+2025-10,Hyderabad,Home & Kitchen,3231998.0
+2025-10,Jaipur,Books,93998.0
+2025-10,Jaipur,Electronics,6049613.0
+2025-10,Jaipur,Fashion,502735.0
+2025-10,Jaipur,Grocery,80497.0
+2025-10,Jaipur,Home & Kitchen,1405741.0
+2025-10,Kochi,Books,56252.0
+2025-10,Kochi,Electronics,2796868.0
+2025-10,Kochi,Fashion,191136.0
+2025-10,Kochi,Grocery,57588.0
+2025-10,Kochi,Home & Kitchen,472208.0
+2025-10,Kolkata,Books,169489.0
+2025-10,Kolkata,Electronics,9557216.0
+2025-10,Kolkata,Fashion,928851.0
+2025-10,Kolkata,Grocery,192893.0
+2025-10,Kolkata,Home & Kitchen,2063260.0
+2025-10,Lucknow,Books,75931.0
+2025-10,Lucknow,Electronics,6479620.0
+2025-10,Lucknow,Fashion,662329.0
+2025-10,Lucknow,Grocery,109082.0
+2025-10,Lucknow,Home & Kitchen,1272531.0
+2025-10,Mumbai,Books,378015.0
+2025-10,Mumbai,Electronics,22194683.0
+2025-10,Mumbai,Fashion,2357514.0
+2025-10,Mumbai,Grocery,409266.0
+2025-10,Mumbai,Home & Kitchen,4502132.0
+2025-10,Pune,Books,164767.0
+2025-10,Pune,Electronics,10769622.0
+2025-10,Pune,Fashion,1070071.0
+2025-10,Pune,Grocery,222206.0
+2025-10,Pune,Home & Kitchen,2294846.0
+2025-11,Ahmedabad,Books,106959.0
+2025-11,Ahmedabad,Electronics,6604151.0
+2025-11,Ahmedabad,Fashion,641882.0
+2025-11,Ahmedabad,Grocery,109102.0
+2025-11,Ahmedabad,Home & Kitchen,1255376.0
+2025-11,Bangalore,Books,281764.0
+2025-11,Bangalore,Electronics,20270909.0
+2025-11,Bangalore,Fashion,1849206.0
+2025-11,Bangalore,Grocery,320853.0
+2025-11,Bangalore,Home & Kitchen,3689238.0
+2025-11,Chandigarh,Books,38704.0
+2025-11,Chandigarh,Electronics,3626753.0
+2025-11,Chandigarh,Fashion,391738.0
+2025-11,Chandigarh,Grocery,74438.0
+2025-11,Chandigarh,Home & Kitchen,769037.0
+2025-11,Chennai,Books,184934.0
+2025-11,Chennai,Electronics,14925716.0
+2025-11,Chennai,Fashion,1313563.0
+2025-11,Chennai,Grocery,253599.0
+2025-11,Chennai,Home & Kitchen,2075197.0
+2025-11,Delhi,Books,282717.0
+2025-11,Delhi,Electronics,23756810.0
+2025-11,Delhi,Fashion,2430243.0
+2025-11,Delhi,Grocery,390674.0
+2025-11,Delhi,Home & Kitchen,4095217.0
+2025-11,Hyderabad,Books,222657.0
+2025-11,Hyderabad,Electronics,15637098.0
+2025-11,Hyderabad,Fashion,1512983.0
+2025-11,Hyderabad,Grocery,219377.0
+2025-11,Hyderabad,Home & Kitchen,2347910.0
+2025-11,Jaipur,Books,94023.0
+2025-11,Jaipur,Electronics,4257371.0
+2025-11,Jaipur,Fashion,731231.0
+2025-11,Jaipur,Grocery,109494.0
+2025-11,Jaipur,Home & Kitchen,1322575.0
+2025-11,Kochi,Books,33386.0
+2025-11,Kochi,Electronics,2495556.0
+2025-11,Kochi,Fashion,282337.0
+2025-11,Kochi,Grocery,57848.0
+2025-11,Kochi,Home & Kitchen,385358.0
+2025-11,Kolkata,Books,167169.0
+2025-11,Kolkata,Electronics,9405106.0
+2025-11,Kolkata,Fashion,1069719.0
+2025-11,Kolkata,Grocery,190747.0
+2025-11,Kolkata,Home & Kitchen,1662860.0
+2025-11,Lucknow,Books,59201.0
+2025-11,Lucknow,Electronics,5974603.0
+2025-11,Lucknow,Fashion,559714.0
+2025-11,Lucknow,Grocery,78837.0
+2025-11,Lucknow,Home & Kitchen,1019230.0
+2025-11,Mumbai,Books,446684.0
+2025-11,Mumbai,Electronics,27946033.0
+2025-11,Mumbai,Fashion,2434337.0
+2025-11,Mumbai,Grocery,470561.0
+2025-11,Mumbai,Home & Kitchen,5385900.0
+2025-11,Pune,Books,144070.0
+2025-11,Pune,Electronics,12241505.0
+2025-11,Pune,Fashion,1075432.0
+2025-11,Pune,Grocery,197291.0
+2025-11,Pune,Home & Kitchen,1849962.0
+2025-12,Ahmedabad,Books,100172.0
+2025-12,Ahmedabad,Electronics,7078199.0
+2025-12,Ahmedabad,Fashion,762023.0
+2025-12,Ahmedabad,Grocery,118630.0
+2025-12,Ahmedabad,Home & Kitchen,1305681.0
+2025-12,Bangalore,Books,301462.0
+2025-12,Bangalore,Electronics,18733801.0
+2025-12,Bangalore,Fashion,2015168.0
+2025-12,Bangalore,Grocery,342473.0
+2025-12,Bangalore,Home & Kitchen,3400229.0
+2025-12,Chandigarh,Books,97241.0
+2025-12,Chandigarh,Electronics,4249763.0
+2025-12,Chandigarh,Fashion,315708.0
+2025-12,Chandigarh,Grocery,90746.0
+2025-12,Chandigarh,Home & Kitchen,778991.0
+2025-12,Chennai,Books,244519.0
+2025-12,Chennai,Electronics,10186456.0
+2025-12,Chennai,Fashion,1255047.0
+2025-12,Chennai,Grocery,255574.0
+2025-12,Chennai,Home & Kitchen,1971874.0
+2025-12,Delhi,Books,293239.0
+2025-12,Delhi,Electronics,21437112.0
+2025-12,Delhi,Fashion,2278239.0
+2025-12,Delhi,Grocery,417190.0
+2025-12,Delhi,Home & Kitchen,4306400.0
+2025-12,Hyderabad,Books,256995.0
+2025-12,Hyderabad,Electronics,14339461.0
+2025-12,Hyderabad,Fashion,1666090.0
+2025-12,Hyderabad,Grocery,217773.0
+2025-12,Hyderabad,Home & Kitchen,2574029.0
+2025-12,Jaipur,Books,83754.0
+2025-12,Jaipur,Electronics,5837281.0
+2025-12,Jaipur,Fashion,577816.0
+2025-12,Jaipur,Grocery,94988.0
+2025-12,Jaipur,Home & Kitchen,991446.0
+2025-12,Kochi,Books,51687.0
+2025-12,Kochi,Electronics,3093427.0
+2025-12,Kochi,Fashion,264823.0
+2025-12,Kochi,Grocery,47189.0
+2025-12,Kochi,Home & Kitchen,326198.0
+2025-12,Kolkata,Books,171080.0
+2025-12,Kolkata,Electronics,9144426.0
+2025-12,Kolkata,Fashion,924135.0
+2025-12,Kolkata,Grocery,139371.0
+2025-12,Kolkata,Home & Kitchen,2036633.0
+2025-12,Lucknow,Books,50769.0
+2025-12,Lucknow,Electronics,4981122.0
+2025-12,Lucknow,Fashion,359351.0
+2025-12,Lucknow,Grocery,84365.0
+2025-12,Lucknow,Home & Kitchen,643493.0
+2025-12,Mumbai,Books,322502.0
+2025-12,Mumbai,Electronics,26230729.0
+2025-12,Mumbai,Fashion,2189594.0
+2025-12,Mumbai,Grocery,416165.0
+2025-12,Mumbai,Home & Kitchen,5075594.0
+2025-12,Pune,Books,162273.0
+2025-12,Pune,Electronics,12332499.0
+2025-12,Pune,Fashion,1189547.0
+2025-12,Pune,Grocery,228416.0
+2025-12,Pune,Home & Kitchen,2114634.0
